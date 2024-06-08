@@ -24,13 +24,9 @@ The tool provides the following commands:
 - `delete libraryname`: Deletes the specified library using Vcpkg.
 - `exit`: Exits the program.
 
-## Example
+## Important Note
 
-```sh
-install zlib
-delete openssl
-exit
-Important Note
+
 Administrator Privileges: Ensure that the tool is run with administrator privileges to allow installation of Git and Vcpkg.
 Troubleshooting
 If you encounter any issues during installation or integration, refer to the error messages displayed by the tool. Ensure that you have the necessary permissions and a stable internet connection.
