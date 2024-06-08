@@ -27,11 +27,9 @@ The tool provides the following commands:
 ## Important Note
 
 
-Administrator Privileges: Ensure that the tool is run with administrator privileges to allow installation of Git and Vcpkg.
-Troubleshooting
-If you encounter any issues during installation or integration, refer to the error messages displayed by the tool. Ensure that you have the necessary permissions and a stable internet connection.
-Contributing
-Contributions to this tool are welcome! If you encounter any bugs or have suggestions for improvement, please open an issue or submit a pull request on GitHub.
+**Administrator Privileges: Ensure that the tool is run with administrator privileges to allow installation of Git and Vcpkg.
+**If you encounter any issues during installation or integration, refer to the error messages displayed by the tool. Ensure that you have the necessary permissions and a stable internet connection.
+
 
 License
 This tool is licensed under the MIT License.
