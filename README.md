@@ -31,5 +31,4 @@ The tool provides the following commands:
 **If you encounter any issues during installation or integration, refer to the error messages displayed by the tool. Ensure that you have the necessary permissions and a stable internet connection.
 
 
-License
 This tool is licensed under the MIT License.
